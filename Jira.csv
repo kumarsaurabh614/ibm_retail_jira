@@ -1,0 +1,157 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Link),Custom field (Impact),Custom field (Issue color),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field ([CHART] Date of First Response),Status Category
+The Price Field in product filter is accepting alphabetic character,RET-54,10053,Bug,To Do,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,18/Feb/22 10:14 AM,18/Feb/22 3:44 PM,18/Feb/22 3:44 PM,,,0,"The Price Field in product filter is accepting alphabetic character
+
+Steps To Reproduce
+1.Navigate to retail website
+2.Select catalog and then product
+3.Enter alphabet in Price filed of filter product
+
+Expected Result
+On clicking filter it should show validation method
+
+Actual Result
+On clicking filter it is accepting the value
+
+ScreenShot
+
+ !image-2022-02-18-10-14-09-785.png|thumbnail! ",,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,,,,RET-33,,,,,,,,,,,,,,,,,,,18/Feb/22 10:14 AM;ug:19c48005-6629-4aeb-b0c5-338f4bfb958b;image-2022-02-18-10-14-09-785.png;https://ibmhaldia47.atlassian.net/secure/attachment/10007/image-2022-02-18-10-14-09-785.png,,,,,,,{},,,,0|i00003:f,,RET Sprint 1,,,,,,,,To Do
+The Quantity Field in product filter is accepting alphabetic character,RET-53,10052,Bug,To Do,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,18/Feb/22 10:00 AM,18/Feb/22 3:45 PM,18/Feb/22 3:45 PM,,,0,"The Quantity Field in product filter is accepting alphabetic character
+
+Steps To Reproduce
+ 1.Navigate to retail website
+ 2.Select catalog and then product
+ 3.Enter alphabet in quantity filed of filter product
+
+Expected Result
+ On clicking filter it should show validation method
+
+Actual Result
+  On clicking filter it is accepting the value
+
+ScreenShot
+
+   !image-2022-02-18-09-59-57-836.png|thumbnail! ",,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,,,,RET-35,,,,,,,,,,,,,,,,,,,18/Feb/22 9:59 AM;ug:19c48005-6629-4aeb-b0c5-338f4bfb958b;image-2022-02-18-09-59-57-836.png;https://ibmhaldia47.atlassian.net/secure/attachment/10006/image-2022-02-18-09-59-57-836.png,,,,,,,{},,,,0|i00006:,,RET Sprint 1,,,,,,,,To Do
+The search feature in add image module is not workiing,RET-52,10051,Bug,To Do,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,17/Feb/22 12:27 PM,18/Feb/22 3:45 PM,18/Feb/22 3:45 PM,,,0,"The search feature while trying to upload an image is not working
+
+Steps To Reproduce
+ 1. Navigate to Retail Website
+ 2. Select Catalog and then product
+ 3. Then navigate to add products and search for an image to use
+
+Expexted Result
+ If the image exists then it should show the image
+
+Actual Result 
+
+ Although the image exists the file is not being shown
+
+ScreenShot
+ !image-2022-02-17-12-26-15-130.png|thumbnail! 
+
+ !image-2022-02-17-12-27-00-987.png|thumbnail! ",,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,,,,RET-51,,,,,,,,,,,,,,,,,,,17/Feb/22 12:26 PM;ug:19c48005-6629-4aeb-b0c5-338f4bfb958b;image-2022-02-17-12-26-15-130.png;https://ibmhaldia47.atlassian.net/secure/attachment/10005/image-2022-02-17-12-26-15-130.png,17/Feb/22 12:27 PM;ug:19c48005-6629-4aeb-b0c5-338f4bfb958b;image-2022-02-17-12-27-00-987.png;https://ibmhaldia47.atlassian.net/secure/attachment/10004/image-2022-02-17-12-27-00-987.png,,,,,,{},,,,0|i00008:,,RET Sprint 1,,,,,,,,To Do
+Verify the Search feature in upload image works for products module,RET-51,10050,Test,In Progress,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,17/Feb/22 11:58 AM,17/Feb/22 12:27 PM,18/Feb/22 11:04 AM,,,0,,,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00009:,,RET Sprint 1,,,,,,,,In Progress
+The Add product features is allowing to upload png image,RET-50,10049,Bug,To Do,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,17/Feb/22 11:57 AM,18/Feb/22 3:43 PM,18/Feb/22 4:28 PM,,,0,"The add product feature is allowing to upload png image but it should only allow us to upload jpg image file type
+
+Steps To Reproduce
+ 1.Navigate to retail website
+ 2. Select catalog and then select product and go to add products option
+ 3. upload an image other than jpg
+
+Expected Result
+ It should show an error message 
+
+Actual Result 
+ The file is being uploaded
+
+Screenshot
+   !image-2022-02-17-11-57-36-555.png|thumbnail! ",,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,,,,RET-43,,,,,,,,,,,,,,,,,,,17/Feb/22 11:57 AM;ug:19c48005-6629-4aeb-b0c5-338f4bfb958b;image-2022-02-17-11-57-36-555.png;https://ibmhaldia47.atlassian.net/secure/attachment/10003/image-2022-02-17-11-57-36-555.png,,,,,,,{},,,,0|i00002:v,,RET Sprint 1,,,,,,,,To Do
+The mail is being sent with blank input in message field,RET-49,10048,Bug,To Do,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,16/Feb/22 3:37 PM,18/Feb/22 3:45 PM,18/Feb/22 3:44 PM,,,0,"The mail is being sent with blank input in message field 
+
+Steps To Reproduce 
+ 1. Navigate to Retail Website 
+ 2. Select Marketing and then Select Mail Option
+ 3. send a mail without writing anything in the message field 
+
+Expected Result
+  On clicking send button it should should show a validation message
+
+Actual Result
+  On clicking send button the mail is being sent
+
+ScreenShot
+
+ !image-2022-02-16-15-37-27-950.png|thumbnail!  ",,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,,,,RET-48,,,,,,,,,,,,,,,,,,,16/Feb/22 3:37 PM;ug:19c48005-6629-4aeb-b0c5-338f4bfb958b;image-2022-02-16-15-37-27-950.png;https://ibmhaldia47.atlassian.net/secure/attachment/10002/image-2022-02-16-15-37-27-950.png,,,,,,,{},,,,0|i00004:i,,RET Sprint 1,,,,,,,,To Do
+Verify that the mail with blank input in message field ,RET-48,10047,Test,In Progress,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,16/Feb/22 2:59 PM,17/Feb/22 10:58 AM,16/Feb/22 3:37 PM,,,0,,,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00003:b,,RET Sprint 1,,,,,,,,In Progress
+Even if the subject field is balnk the mail is being sent,RET-47,10046,Bug,To Do,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,16/Feb/22 2:46 PM,18/Feb/22 3:44 PM,18/Feb/22 3:44 PM,,,0,"Empty mail subject messages are being sent
+
+Steps to reproduce 
+ 1. Navigate to Retail website
+ 2. Select marketing and move to mail
+ 3. send mail without any subject
+
+Expected Result
+  There should appear a validation message saying that subject field is empty
+
+Actual Result
+   The mail with blank subject value is being sent 
+
+ScreenShot
+ !image-2022-02-16-14-46-42-249.png|thumbnail! ",,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,,,,RET-17,,,,,,,,,,,,,,,,,,,16/Feb/22 2:46 PM;ug:19c48005-6629-4aeb-b0c5-338f4bfb958b;image-2022-02-16-14-46-42-249.png;https://ibmhaldia47.atlassian.net/secure/attachment/10001/image-2022-02-16-14-46-42-249.png,,,,,,,{},,,,0|i00003:d,,RET Sprint 1,,,,,,,,To Do
+The Subject field is accepting more than 1000 characters,RET-46,10045,Bug,To Do,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,16/Feb/22 12:35 PM,18/Feb/22 3:43 PM,18/Feb/22 3:43 PM,,,0,"The subject field in Mail module should not allow more than 1000 characters in Text box.
+
+Steps To Reproduce 
+  1. Navigate to the retail website
+  2. GO to marketing and then to Mail
+  3. Enter more than 1000 characters in Subject field 
+
+Expected Result
+   On clicking send , it should show a validation message 
+
+Actual  Result
+    The mail is being sent
+
+
+
+",,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,,,,RET-14,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00003:9,,RET Sprint 1,,,,,,,,To Do
+Verify delete button in product module,RET-45,10044,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:16 PM,18/Feb/22 10:07 AM,18/Feb/22 10:07 AM,18/Feb/22 10:07 AM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00001:f,,RET Sprint 1,,,,,,,,Done
+Verify copy button in product module,RET-44,10043,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:16 PM,17/Feb/22 12:36 PM,17/Feb/22 12:36 PM,17/Feb/22 12:36 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:d,,RET Sprint 1,,,,,,,,Done
+Verify by uploading other image type than jpg in add product module,RET-43,10042,Test,In Progress,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:16 PM,17/Feb/22 11:57 AM,17/Feb/22 11:47 AM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:n,,RET Sprint 1,,,,,,,,In Progress
+Verify by uploading jpg file in image in add products page in product module,RET-42,10041,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:16 PM,17/Feb/22 12:37 PM,17/Feb/22 12:37 PM,17/Feb/22 12:37 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:ki,,RET Sprint 1,,,,,,,,Done
+Verify that product name and meta tag title label has astrik sign in add new products page in product module,RET-41,10040,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:16 PM,18/Feb/22 10:19 AM,18/Feb/22 10:19 AM,18/Feb/22 10:19 AM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:ii,,RET Sprint 1,,,,,,,,Done
+Verify the action button in product module,RET-40,10039,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:16 PM,17/Feb/22 12:30 PM,17/Feb/22 12:30 PM,17/Feb/22 12:30 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:ji,,RET Sprint 1,,,,,,,,Done
+Verify the fields in product page in product Module,RET-39,10038,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:16 PM,18/Feb/22 10:09 AM,18/Feb/22 10:09 AM,18/Feb/22 10:09 AM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:l,,RET Sprint 1,,,,,,,,Done
+Verify the filter button in product module,RET-38,10037,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:16 PM,18/Feb/22 3:47 PM,18/Feb/22 3:48 PM,18/Feb/22 3:47 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:4,,RET Sprint 1,,,,,,,,Done
+Verify the contents of status and image field in product module,RET-37,10036,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:16 PM,17/Feb/22 11:12 AM,17/Feb/22 11:12 AM,17/Feb/22 11:12 AM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:o,,RET Sprint 1,,,,,,,,Done
+Verify the type of status and image field in product module,RET-36,10035,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:16 PM,17/Feb/22 11:45 AM,17/Feb/22 11:45 AM,17/Feb/22 11:45 AM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00001:7,,RET Sprint 1,,,,,,,,Done
+Verify the quantity field with alphabets in product module,RET-35,10034,Test,In Progress,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:16 PM,18/Feb/22 10:01 AM,18/Feb/22 10:00 AM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00003:i,,RET Sprint 1,,,,,,,,In Progress
+Verify the quantity field with Numbers in product module,RET-34,10033,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,18/Feb/22 10:16 AM,18/Feb/22 10:16 AM,18/Feb/22 10:16 AM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00001:2i,,RET Sprint 1,,,,,,,,Done
+Verify the price field with alphabets in product module,RET-33,10032,Test,In Progress,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,18/Feb/22 10:14 AM,18/Feb/22 10:14 AM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00001:d,,RET Sprint 1,,,,,,,,In Progress
+Verify the price field with Numbers in product module,RET-32,10031,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,18/Feb/22 10:39 AM,18/Feb/22 10:40 AM,18/Feb/22 10:39 AM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00001:3i,,RET Sprint 1,,,,,,,,Done
+Verify the Model field with alphanumeric characters in product module,RET-31,10030,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,18/Feb/22 10:15 AM,18/Feb/22 10:15 AM,18/Feb/22 10:15 AM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00004:,,RET Sprint 1,,,,,,,,Done
+Verify the product name with alphanumeric characters in product module,RET-30,10029,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,18/Feb/22 10:08 AM,18/Feb/22 10:08 AM,18/Feb/22 10:08 AM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:j,,RET Sprint 1,,,,,,,,Done
+"Verify the type of product name,model,price,quantity in product module",RET-29,10028,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,18/Feb/22 3:22 PM,18/Feb/22 3:22 PM,18/Feb/22 3:22 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00001:3,,RET Sprint 1,,,,,,,,Done
+Verify the font size of every text box in mail module,RET-28,10027,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 2:37 PM,16/Feb/22 2:37 PM,16/Feb/22 2:37 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00001:6,,RET Sprint 1,,,,,,,,Done
+Verify the cancel button in mail module,RET-27,10026,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 2:37 PM,16/Feb/22 2:37 PM,16/Feb/22 2:37 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00001:2,,RET Sprint 1,,,,,,,,Done
+Verify the send button with valid input data in mail module,RET-26,10025,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 2:19 PM,16/Feb/22 2:19 PM,16/Feb/22 2:19 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00001:4,,RET Sprint 1,,,,,,,,Done
+Verify the send button with invalid input data in mail module,RET-25,10024,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 12:50 PM,15/Feb/22 4:07 PM,16/Feb/22 12:50 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00000:9,,RET Sprint 1,,,,,,,,Done
+Verify the send button in mail module,RET-24,10023,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 3:55 PM,16/Feb/22 3:55 PM,16/Feb/22 3:55 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00001:9,,RET Sprint 1,,,,,,,,Done
+Verify the Message field with less than 3000 characters in mail module,RET-23,10022,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 3:53 PM,16/Feb/22 3:53 PM,16/Feb/22 3:53 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:k,,RET Sprint 1,,,,,,,,Done
+Verify the Message field with more than 3000 characters in mail module,RET-22,10021,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 12:52 PM,15/Feb/22 4:06 PM,16/Feb/22 12:52 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00000:i,,RET Sprint 1,,,,,,,,Done
+"Verify the Message field with alphabet,numeric,alphanumeric and special characters in mail module",RET-21,10020,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,18/Feb/22 3:23 PM,15/Feb/22 4:05 PM,18/Feb/22 3:23 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i0000b:,,RET Sprint 1,,,,,,,,Done
+Verify the type of Message field in mail module,RET-20,10019,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 2:18 PM,16/Feb/22 2:17 PM,16/Feb/22 2:18 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:9,,RET Sprint 1,,,,,,,,Done
+Verify that Message label has astrik sign (*) in mail module,RET-19,10018,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 2:15 PM,16/Feb/22 2:15 PM,16/Feb/22 2:15 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|hzzzzz:9,,RET Sprint 1,,,,,,,,Done
+"verify the subject field with alphanumeric , alphabet ,numeric and special characters in mail module",RET-18,10017,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,18/Feb/22 10:05 AM,18/Feb/22 10:05 AM,18/Feb/22 10:05 AM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:m,,RET Sprint 1,,,,,,,,Done
+Verify the Subject field with blank space in mail module,RET-17,10016,Test,In Progress,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 2:46 PM,16/Feb/22 2:47 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00001:i,,RET Sprint 1,,,,,,,,In Progress
+Verify the Subject field with less than 1000 characters in mail module,RET-16,10015,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 12:43 PM,21/Feb/22 9:59 AM,16/Feb/22 12:43 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00005:,,RET Sprint 1,,,,,,,,Done
+Verify the type of Subject field in mail module,RET-15,10014,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 12:49 PM,16/Feb/22 12:47 PM,16/Feb/22 12:49 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:r,,RET Sprint 1,,,,,,,,Done
+Verify the subject field with more than 1000 characters in mail  module,RET-14,10013,Test,In Progress,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,18/Feb/22 3:22 PM,18/Feb/22 3:23 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|hzzzzz:i,,RET Sprint 1,,,,,,,,In Progress
+Verify that subject label has astrik sign (*) in mail module,RET-13,10012,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,18/Feb/22 10:38 AM,18/Feb/22 10:38 AM,18/Feb/22 10:38 AM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00000:,,RET Sprint 1,,,,,,,,Done
+"Verify the contents of  ""To"" List box in mail module",RET-12,10011,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 4:14 PM,16/Feb/22 4:14 PM,16/Feb/22 4:14 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,RET-5,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:i,,RET Sprint 1,,,,,,,,Done
+"Verify the type of  ""To"" field in Mail module",RET-11,10010,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 4:09 PM,16/Feb/22 4:12 PM,16/Feb/22 4:09 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00002:,,RET Sprint 1,,,,,,,,Done
+"Verify the type of ""From"" field in Mail Module",RET-10,10009,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 3:59 PM,16/Feb/22 3:59 PM,16/Feb/22 3:59 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00001:,,RET Sprint 1,,,,,,,,Done
+"Verify the ""From"" field in Mail Module",RET-9,10008,Test,Done,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,Done,,,Saurabh Kumar,620b359eeb297800689101e7,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,15/Feb/22 3:15 PM,16/Feb/22 2:20 PM,16/Feb/22 2:36 PM,16/Feb/22 2:20 PM,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|i00003:,,RET Sprint 1,,,,,,,,Done
+"As an Admin I would like to have a ""add product "" options to add new products",RET-8,10007,Story,In Progress,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,15/Feb/22 2:13 PM,18/Feb/22 3:45 PM,18/Feb/22 11:03 AM,,,0,,,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,RET-50,RET-52,,RET-41,RET-42,RET-43,RET-51,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|hzzzzj:,,RET Sprint 1,,,,,,,,In Progress
+As an Admin I would like to have the function to filter products,RET-7,10006,Story,In Progress,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,15/Feb/22 2:11 PM,18/Feb/22 3:45 PM,18/Feb/22 11:03 AM,,,0,,,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,RET-54,RET-53,,RET-29,RET-30,RET-31,RET-32,RET-33,RET-34,RET-35,RET-36,RET-37,RET-38,RET-39,,,,,,,,,,,,,,,,{},,,,0|hzzzzr:,,RET Sprint 1,,,,,,,,In Progress
+As an Admin I would  like to have edit feature for updating products,RET-6,10005,Story,In Progress,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,15/Feb/22 2:10 PM,18/Feb/22 3:45 PM,18/Feb/22 11:04 AM,,,0,,,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,RET-50,RET-52,,RET-40,RET-44,RET-45,RET-51,,,,,,,,,,,,,,,,,,,,,,,{},,,,0|hzzzzz:,,RET Sprint 1,,,,,,,,In Progress
+As an Admin I would like to be able to send mails to different groups of people at once,RET-5,10004,Story,In Progress,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,15/Feb/22 2:09 PM,18/Feb/22 3:45 PM,18/Feb/22 11:03 AM,,,0,,,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,RET-46,RET-47,RET-49,RET-11,RET-13,RET-14,RET-15,RET-16,RET-17,RET-18,RET-19,RET-20,RET-21,RET-22,RET-23,RET-24,RET-25,RET-26,RET-27,RET-28,RET-48,,,,,,,,,{},,,,0|i00007:,,RET Sprint 1,,,,,,,,In Progress
+As an Admin I would like that all the mails are sent from default mail id ,RET-4,10003,Story,In Progress,RET,Retail,software,Saurabh Kumar,620b359eeb297800689101e7,,Medium,,,,Saurabh Kumar,620b359eeb297800689101e7,Saurabh Kumar,620b359eeb297800689101e7,15/Feb/22 2:08 PM,18/Feb/22 3:45 PM,18/Feb/22 11:03 AM,,,0,,,Saurabh Kumar,620b359eeb297800689101e7,,,,,,,,,RET-46,RET-47,RET-49,RET-9,RET-10,RET-13,RET-14,RET-15,RET-16,RET-17,RET-18,RET-19,RET-20,RET-21,RET-22,RET-23,RET-24,RET-25,RET-26,RET-27,RET-28,RET-48,,,,,,,,{},,,,0|i0000f:,,RET Sprint 1,,,,,,,,In Progress
